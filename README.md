@@ -8,9 +8,9 @@ The Report depicts weekly PepsiCo sales and target clearance vendor-wise for Q3 
 The Report depicts the Actual v/s Forecasted Sales variance for PepsiCo.
 
 ## Project 3: Dispute Claim
-
+The Report depicts the dispute categories, region-wise disputes, dispute count by product and the amount claimed by vendors from PepsiCo.
 
 ## Project 3: KPI Dashboard
-
+The Report depicts the KPI summary for the nodes affecting the KPIs, throughput and daily traffic for Rogers Canada at Ericsson.
 
 
