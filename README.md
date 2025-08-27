@@ -7,6 +7,7 @@ This portfolio showcases my proficiency in Power BI and highlights my ability to
 
 ## Project 1: Weekly Sales Clearance Report
 The Report depicts weekly PepsiCo sales and target clearance vendor-wise for Q3 and Q4, 2023.  
+- Files: https://github.com/Reema-Siddiqi/Portfolio/commit/42edf0413a3ab85e866e05039843bddb1a83b52e#diff-18f245a0bbad6eaf3adca403de7ce5c03a5db2fb3b28f6e802926dc42c696485
 
 ## Project 2: Variance Analysis
 The Report depicts the Actual v/s Forecasted Sales variance for PepsiCo.
