@@ -7,7 +7,7 @@ This portfolio showcases my proficiency in Power BI and highlights my ability to
 
 ## Project 1: KPI Dashboard
 The Report depicts the KPI summary for the nodes affecting the KPIs, throughput and daily traffic for Rogers Canada at Ericsson.    
-Tools: Power BI | DAX | Data Modeling | Visualization                                                                                                                                                       Developed an interactive KPI Dashboard to provide a comprehensive performance overview of network nodes for Rogers Canada in collaboration with Ericsson. The dashboard focuses on high-level KPIs and operational metrics critical to understanding network performance and traffic behavior.
+Tools: Power BI | DAX | Data Modeling | Visualization                                                                                                                       Developed an interactive KPI Dashboard to provide a comprehensive performance overview of network nodes for Rogers Canada in collaboration with Ericsson. The dashboard focuses on high-level KPIs and operational metrics critical to understanding network performance and traffic behavior.
 
 📌 Key Features:
 
