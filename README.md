@@ -6,7 +6,7 @@ This portfolio showcases my proficiency in Power BI and highlights my ability to
 ---
 
 ## Project 1: KPI Dashboard
-The Report depicts the KPI summary for the nodes affecting the KPIs, throughput and daily traffic for Rogers Canada at Ericsson./n
+The Report depicts the KPI summary for the nodes affecting the KPIs, throughput and daily traffic for Rogers Canada at Ericsson.    
 Tools: Power BI | DAX | Data Modeling | Visualization
 
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/KPI%20Dashboard.jpg" />
