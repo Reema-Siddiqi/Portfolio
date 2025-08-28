@@ -21,7 +21,7 @@ Node Performance Breakdown: Enabled granular analysis of individual node perform
 Interactive Filters & Drill-Downs: Allowed users to filter by region, node ID, or date range for targeted insights.
 
   Outcome:
-Empowered stakeholders to make data-driven decisions by providing a centralized view of network health and operational efficiency. The dashboard helped identify underperforming nodes and optimize network resources effectively.
+Empowered stakeholders to make data-driven decisions by providing a centralized view of network health and operational efficiency. The dashboard helped identify underperforming nodes and optimize network resources effectively.<br>
 
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/KPI%20Dashboard.jpg" />
 
