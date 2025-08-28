@@ -8,6 +8,23 @@ This portfolio showcases my proficiency in Power BI and highlights my ability to
 ## Project 1: KPI Dashboard
 The Report depicts the KPI summary for the nodes affecting the KPIs, throughput and daily traffic for Rogers Canada at Ericsson.    
 Tools: Power BI | DAX | Data Modeling | Visualization
+Developed an interactive KPI Dashboard to provide a comprehensive performance overview of network nodes for Rogers Canada in collaboration with Ericsson. The dashboard focuses on high-level KPIs and operational metrics critical to understanding network performance and traffic behavior.
+
+📌 Key Features:
+
+KPI Summary Visualization: Tracked real-time performance indicators such as availability, throughput, and utilization.
+
+Throughput Analysis: Visualized throughput trends to identify network congestion or underutilization.
+
+Daily Traffic Trends: Monitored traffic volume and pattern changes on a daily basis, aiding capacity planning.
+
+Node Performance Breakdown: Enabled granular analysis of individual node performance affecting overall KPIs.
+
+Interactive Filters & Drill-Downs: Allowed users to filter by region, node ID, or date range for targeted insights.
+
+🎯 Outcome:
+
+Empowered stakeholders to make data-driven decisions by providing a centralized view of network health and operational efficiency. The dashboard helped identify underperforming nodes and optimize network resources effectively.
 
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/KPI%20Dashboard.jpg" />
 
