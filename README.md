@@ -10,7 +10,6 @@ The Report depicts the KPI summary for the nodes affecting the KPIs, throughput 
 Tools: Power BI | DAX | Data Modeling | Visualization <br> <br>                                                                                                                   Developed an interactive KPI Dashboard to provide a comprehensive performance overview of network nodes for Rogers Canada in collaboration with Ericsson. The dashboard focuses on high-level KPIs and operational metrics critical to understanding network performance and traffic behavior.
 
 📌 Key Features:
-
 KPI Summary Visualization: Tracked real-time performance indicators such as availability, throughput, and utilization.
 
 Throughput Analysis: Visualized throughput trends to identify network congestion or underutilization.
