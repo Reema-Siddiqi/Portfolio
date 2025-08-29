@@ -50,6 +50,29 @@ Helped the finance and logistics teams at PepsiCo identify operational inefficie
 
 ## Project 3: Weekly Sales Clearance Report
 The Report depicts weekly PepsiCo sales and target clearance vendor-wise for Q3 and Q4, 2023.  
+Tools: Power BI | DAX | Time Intelligence | Data Modeling                                                                                                                         Created a dynamic Power BI dashboard to track and compare weekly sales performance across multiple retail vendors for PepsiCo. The dashboard enables leadership teams to monitor sales trends, identify spikes or dips, and make informed decisions about channel-specific strategies.
+
+📌 Key Features:
+
+Vendor Segmentation: Includes major vendors such as Sobeys, Metro, ICL, Small Format, and Alt Channel, with interactive toggle buttons to isolate each for deep-dive analysis.
+
+Weekly Sales Table: Displays sales data across weeks (31 to 44), broken down by vendor and quarter, enabling granular tracking of performance over time.
+
+Sales Trend Visualization: A clustered bar chart shows weekly sales volume for each vendor, allowing stakeholders to:
+
+Spot high-performing weeks (e.g., Week 28 spike at $25M)
+
+Compare vendor contribution side-by-side.
+
+Quarterly Split (Q3/Q4): Supports period-specific performance reviews to evaluate seasonal or promotional impacts on sales.
+
+Dynamic Summaries: Grand total rows and visual indicators show aggregated performance metrics at a glance.
+
+📈 Business Impact:
+
+Provided visibility into week-by-week sales performance to facilitate agile marketing and supply chain decisions. Enabled vendor performance benchmarking to assess retail effectiveness and optimize resource allocation.
+Early identification of anomalies or outliers in sales trends to support issue resolution. <br><br>
+
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Weekly%20Sales%20Clearance%20Report.jpg" />
 
 ## Project 4: Variance Analysis
