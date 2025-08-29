@@ -66,8 +66,7 @@ Quarterly Split (Q3/Q4): Supports period-specific performance reviews to evaluat
 
 Dynamic Summaries: Grand total rows and visual indicators show aggregated performance metrics at a glance.
 
-📈 Business Impact:
-
+Impact:
 Provided visibility into week-by-week sales performance to facilitate agile marketing and supply chain decisions. Enabled vendor performance benchmarking to assess retail effectiveness and optimize resource allocation.
 Early identification of anomalies or outliers in sales trends to support issue resolution. <br><br>
 
