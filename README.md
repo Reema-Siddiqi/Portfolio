@@ -23,7 +23,7 @@ Interactive Filters & Drill-Downs: Allowed users to filter by region, node ID, o
   Impact:
 Empowered stakeholders to make data-driven decisions by providing a centralized view of network health and operational efficiency. The dashboard helped identify underperforming nodes and optimize network resources effectively.<br><br>
 
-<img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/KPI%20Dashboard.jpg" />
+<img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/KPI%20Dashboard.jpg" /> <br><br>
 
 ## Project 2: Dispute Claim
 The Report depicts the dispute categories, region-wise disputes, dispute count by product and the amount claimed by vendors from PepsiCo.
