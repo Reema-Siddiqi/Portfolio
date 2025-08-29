@@ -73,7 +73,7 @@ Dynamic Summaries: Grand total rows and visual indicators show aggregated perfor
 Provided visibility into week-by-week sales performance to facilitate agile marketing and supply chain decisions. Enabled vendor performance benchmarking to assess retail effectiveness and optimize resource allocation.
 Early identification of anomalies or outliers in sales trends to support issue resolution. <br><br>
 
-<img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Weekly%20Sales%20Clearance%20Report.jpg" />
+<img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Weekly%20Sales%20Clearance%20Report.jpg" /> <br><br>
 
 ## Project 4: Variance Analysis
 The Report depicts the Actual v/s Forecasted Sales variance for PepsiCo.
