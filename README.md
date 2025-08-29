@@ -46,7 +46,7 @@ Interactive Filtering: Filters by product category and vendor allow dynamic expl
 Impact:
 Helped the finance and logistics teams at PepsiCo identify operational inefficiencies leading to vendor disputes across regions in Canada. Highlighted specific product packaging issues and vendor inconsistencies, enabling targeted resolution strategies.<br><br>
 
-<img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Dispute%20Claim.jpg" />
+<img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Dispute%20Claim.jpg" /> <br><br>
 
 ## Project 3: Weekly Sales Clearance Report
 The Report depicts weekly PepsiCo sales and target clearance vendor-wise for Q3 and Q4, 2023.  
