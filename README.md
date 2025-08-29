@@ -20,13 +20,32 @@ Node Performance Breakdown: Enabled granular analysis of individual node perform
 
 Interactive Filters & Drill-Downs: Allowed users to filter by region, node ID, or date range for targeted insights.
 
-  Outcome:
+  Impact:
 Empowered stakeholders to make data-driven decisions by providing a centralized view of network health and operational efficiency. The dashboard helped identify underperforming nodes and optimize network resources effectively.<br><br>
 
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/KPI%20Dashboard.jpg" />
 
 ## Project 2: Dispute Claim
 The Report depicts the dispute categories, region-wise disputes, dispute count by product and the amount claimed by vendors from PepsiCo.
+Tools: Power BI | DAX | Data Modeling | Data Cleaning <br><br>                                                                                                                   Designed an interactive Power BI dashboard for PepsiCo to analyze dispute claims reported by vendors across regions in Canada. The dashboard identifies the root causes of claims, evaluates vendor behavior, and highlights high-risk products with frequent disputes.
+
+📌 Key Features:
+
+Dispute Summary Cards: Displayed total claim value ($2.28M) and count (2,000 disputes) for Q3, offering quick executive-level insights.
+
+Dispute Reasons Pie Chart: Visual breakdown of key dispute categories such as damaged packaging, incorrect deliveries, and unauthorized charges.
+
+Regional Filtering: Enabled drill-down by region (Ontario, West, East) to identify geographic trends and disparities.
+
+Product-Level Dispute Analysis: Ranked products by dispute count to pinpoint the SKUs driving the majority of vendor claims.
+
+Vendor-Specific Claim Comparison: Compared claims by major vendors (e.g., Sobeys, Metro, ICL) across various dispute reasons.
+
+Interactive Filtering: Filters by product category and vendor allow dynamic exploration and customized analysis.
+
+Impact:
+Helped the finance and logistics teams at PepsiCo identify operational inefficiencies leading to vendor disputes. Highlighted specific product packaging issues and vendor inconsistencies, enabling targeted resolution strategies.<br><br>
+
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Dispute%20Claim.jpg" />
 
 ## Project 3: Weekly Sales Clearance Report
