@@ -44,7 +44,7 @@ Vendor-Specific Claim Comparison: Compared claims by major vendors (e.g., Sobeys
 Interactive Filtering: Filters by product category and vendor allow dynamic exploration and customized analysis.
 
 Impact:
-Helped the finance and logistics teams at PepsiCo identify operational inefficiencies leading to vendor disputes. Highlighted specific product packaging issues and vendor inconsistencies, enabling targeted resolution strategies.<br><br>
+Helped the finance and logistics teams at PepsiCo identify operational inefficiencies leading to vendor disputes across regions in Canada. Highlighted specific product packaging issues and vendor inconsistencies, enabling targeted resolution strategies.<br><br>
 
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Dispute%20Claim.jpg" />
 
