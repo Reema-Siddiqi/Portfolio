@@ -77,6 +77,20 @@ Early identification of anomalies or outliers in sales trends to support issue r
 
 ## Project 4: Variance Analysis
 The Report depicts the Actual v/s Forecasted Sales variance for PepsiCo.
+Tools: Power BI | Forecasting | DAX | Time Series Comparison                                                                                                                      Built a Power BI dashboard to analyze daily variances between actual and forecasted sales, enabling stakeholders to monitor prediction accuracy and respond to significant deviations in real time. <br><br>
+
+📌 Key Features:
+Variance Bar Chart: Clearly visualizes gaps between actual and forecasted sales for each product or sales point, highlighting both positive and negative variances.
+
+Forecast Accuracy Tracking: Uses a line chart overlay to compare predicted vs. actual performance, providing insights into forecasting reliability.
+
+Prosper-Level Analysis: Breaks down performance by individual prosper names, supporting targeted reviews at a granular level.
+
+Threshold-Based Insights: Spotlights variances greater than ±$0.5M for quick escalation and root cause investigation.
+
+Impact:
+Enabled early detection of sales forecasting deviations, helping teams refine forecasting models and adjust operational plans. Supported performance reviews at the product level, allowing data-driven decisions to reduce overstocking or under-supply risks. Improved forecasting accountability by tracking where and when actuals consistently diverged from predictions. <br><br>
+
 <img width="960" alt="2025-02-11" src="https://github.com/Reema-Siddiqi/Portfolio/blob/main/Daily%20Variance%20Analysis.jpg" />
 
 
