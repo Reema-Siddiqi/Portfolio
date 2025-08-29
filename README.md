@@ -29,8 +29,7 @@ Empowered stakeholders to make data-driven decisions by providing a centralized 
 The Report depicts the dispute categories, region-wise disputes, dispute count by product and the amount claimed by vendors from PepsiCo.
 Tools: Power BI | DAX | Data Modeling | Data Cleaning <br><br>                                                                                                                   Designed an interactive Power BI dashboard for PepsiCo to analyze dispute claims reported by vendors across regions in Canada. The dashboard identifies the root causes of claims, evaluates vendor behavior, and highlights high-risk products with frequent disputes.
 
-📌 Key Features:
-
+📌 Key Features: <br>
 Dispute Summary Cards: Displayed total claim value ($2.28M) and count (2,000 disputes) for Q3, offering quick executive-level insights.
 
 Dispute Reasons Pie Chart: Visual breakdown of key dispute categories such as damaged packaging, incorrect deliveries, and unauthorized charges.
@@ -52,8 +51,7 @@ Helped the finance and logistics teams at PepsiCo identify operational inefficie
 The Report depicts weekly PepsiCo sales and target clearance vendor-wise for Q3 and Q4, 2023.  
 Tools: Power BI | DAX | Time Intelligence | Data Modeling                                                                                                                         Created a dynamic Power BI dashboard to track and compare weekly sales performance across multiple retail vendors for PepsiCo. The dashboard enables leadership teams to monitor sales trends, identify spikes or dips, and make informed decisions about channel-specific strategies.
 
-📌 Key Features:
-
+📌 Key Features: <br>
 Vendor Segmentation: Includes major vendors such as Sobeys, Metro, ICL, Small Format, and Alt Channel, with interactive toggle buttons to isolate each for deep-dive analysis.
 
 Weekly Sales Table: Displays sales data across weeks (31 to 44), broken down by vendor and quarter, enabling granular tracking of performance over time.
@@ -79,7 +77,7 @@ Early identification of anomalies or outliers in sales trends to support issue r
 The Report depicts the Actual v/s Forecasted Sales variance for PepsiCo.
 Tools: Power BI | Forecasting | DAX | Time Series Comparison                                                                                                                      Built a Power BI dashboard to analyze daily variances between actual and forecasted sales, enabling stakeholders to monitor prediction accuracy and respond to significant deviations in real time. <br><br>
 
-📌 Key Features:
+📌 Key Features: <br>
 Variance Bar Chart: Clearly visualizes gaps between actual and forecasted sales for each product or sales point, highlighting both positive and negative variances.
 
 Forecast Accuracy Tracking: Uses a line chart overlay to compare predicted vs. actual performance, providing insights into forecasting reliability.
